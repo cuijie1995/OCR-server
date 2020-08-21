@@ -1,0 +1,156 @@
+{
+  "id": "1976083",
+  "name": "previewPDF",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "504573",
+      "name": "刷新",
+      "font_class": "shuaxin",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "4158100",
+      "name": "上移_1",
+      "font_class": "shangyi_",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "5831260",
+      "name": "方框",
+      "font_class": "fangkuang",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "8351878",
+      "name": "手",
+      "font_class": "shou",
+      "unicode": "e6ac",
+      "unicode_decimal": 59052
+    },
+    {
+      "icon_id": "13137543",
+      "name": "刷新",
+      "font_class": "shuaxin1",
+      "unicode": "e72a",
+      "unicode_decimal": 59178
+    },
+    {
+      "icon_id": "14151857",
+      "name": "刷新",
+      "font_class": "shuaxin2",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "14773892",
+      "name": "鼠标箭头",
+      "font_class": "shubiaojiantou",
+      "unicode": "e748",
+      "unicode_decimal": 59208
+    },
+    {
+      "icon_id": "608349",
+      "name": "箭头",
+      "font_class": "jiantouarrow484",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    },
+    {
+      "icon_id": "609185",
+      "name": "箭头",
+      "font_class": "jiantouarrow506",
+      "unicode": "e6b5",
+      "unicode_decimal": 59061
+    },
+    {
+      "icon_id": "1028111",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "1110430",
+      "name": "箭头右",
+      "font_class": "jiantouyou",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "1302",
+      "name": "加",
+      "font_class": "jia",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "826149",
+      "name": "上移",
+      "font_class": "shangyi",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "826164",
+      "name": "下移",
+      "font_class": "xiayi",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "2328358",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "2729101",
+      "name": "下载",
+      "font_class": "xiazai",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "6677523",
+      "name": "全屏",
+      "font_class": "quanping",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "8843484",
+      "name": "折叠",
+      "font_class": "zhedie",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "12728683",
+      "name": "减",
+      "font_class": "jian",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "13310601",
+      "name": "打印",
+      "font_class": "dayin-",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "14151852",
+      "name": "上传",
+      "font_class": "shangchuan",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    }
+  ]
+}

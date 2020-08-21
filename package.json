@@ -1,0 +1,45 @@
+{
+  "name": "flow_vue",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "better-scroll": "^1.15.2",
+    "bootstrap": "^3.4.1",
+    "core-js": "^3.6.4",
+    "element-ui": "^2.13.0",
+    "html2canvas": "^1.0.0-rc.6",
+    "jquery": "^3.5.1",
+    "js-cookie": "^2.2.1",
+    "jsplumb": "^2.12.14",
+    "pdf-dist": "^1.0.0",
+    "pdfjs-dist": "^2.4.456",
+    "vue": "^2.6.11",
+    "vue-contextmenu": "^1.5.10",
+    "vue-draggable-resizable-gorkys": "^2.3.6",
+    "vue-pdf": "^4.1.0",
+    "vue-router": "^3.1.5",
+    "vuedraggable": "^2.24.0",
+    "vuex": "^3.1.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.2.0",
+    "@vue/cli-plugin-router": "^4.2.0",
+    "@vue/cli-plugin-vuex": "^4.2.0",
+    "@vue/cli-service": "^4.2.0",
+    "file-loader": "^6.0.0",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^8.0.2",
+    "style-loader": "^1.2.1",
+    "url-loader": "^4.1.0",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}
